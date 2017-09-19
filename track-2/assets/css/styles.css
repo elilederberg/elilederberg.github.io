@@ -1,0 +1,126 @@
+body{
+	background-color: rgb(16,53,95);
+}
+
+h1{
+	font-family: arial;
+	font-size: 36px;
+	font-weight: bold;
+	text-align:center;
+	color: #939191;
+	letter-spacing: 7.2px;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+
+h2{
+	font-family: arial;
+	font-size: 24px;
+	text-align:center;
+	color: #A393BC;
+	letter-spacing: 4.8px;
+}
+
+h3{
+	font-family: arial;
+	font-size: 20px;
+	text-align:center;
+	color: #6E4383;
+	letter-spacing: 4px;
+}
+
+h4{
+	font-family: arial;
+	font-size: 18px;
+	text-align:center;
+	color: #490552;
+	letter-spacing: 3.6px;
+}
+
+h5{
+	font-family: arial;
+	font-size: 14px;
+	text-align:center;
+	color: #2D1335;
+	letter-spacing: 2.8px;
+}
+
+h6{
+	font-family: arial;
+	font-size: 12px;
+	font-weight: normal;
+	text-align:center;
+	color: #1B0D2C;
+	letter-spacing: 2.4px;
+}
+
+p{
+	font-family: arial;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+	color: #2D1335;
+	letter-spacing: 2.8px;
+
+}
+
+h7{
+	font-family: futura;
+	font-size: 13px;
+	font-weight:lighter;
+	font-style: italic;
+	text-align: center;
+	color: #383879;
+	letter-spacing: 2.4px;
+}
+
+h8{
+	font-family: futura;
+	font-size: 12px;
+	font-weight:lighter;
+	font-style: italic;
+	text-align: center;
+	color: #484795;
+	letter-spacing: 2.2px;
+}
+
+h9{
+	font-family: futura;
+	font-size: 11px;
+	font-weight:lighter;
+	font-style: italic;
+	text-align: center;
+	color: #3F3DBA;
+	letter-spacing: 2.0px;
+}
+
+h10{
+	font-family: futura;
+	font-size: 10px;
+	font-weight:lighter;
+	font-style: italic;
+	text-align: center;
+	color: #4C4ADF;
+	letter-spacing: 1.8px;
+}
+
+h11{
+	font-family: arial;
+	font-size: 14px;
+	font-weight:normal;
+	text-align: center;
+	color: #4E49AC;
+	letter-spacing: 2.8px;
+}
+
+/*a{*/
+	/*font-family: arial;
+	font-size: 12px;
+	font-weight:normal;
+	text-align: center;
+	color: #9A54D3;
+	letter-spacing: 2.4px;*/
+/*}*/
