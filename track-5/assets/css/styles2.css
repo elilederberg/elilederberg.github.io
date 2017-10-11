@@ -1,0 +1,21 @@
+body {
+	background: #000;
+	color: #fff;
+	text-align: center;
+	font-family: arial;
+}
+
+a:link,a:visited,a:hover,a:active{
+	color:#fff;
+	text-align: center;
+	text-decoration: underline;
+}
+
+
+h1{
+	font-size: 50px;
+}
+
+.c{
+	font-size: 20px;
+}
