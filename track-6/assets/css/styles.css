@@ -1,7 +1,31 @@
 *{box-sizing: border-box;}
 
 body{
-	background: #0f0;
+	background: #2e2a26;
 	color: #fff;
 	font-size: 20px;
+	font-family: arial;
+	font-weight: lighter;
+	
 }
+
+.head{
+	color:#d10909;
+	font-size: 40px;
+	font-family: helvetica;
+	font-weight: bold;
+}
+
+/*.item{
+	color: #fff;
+	font-size: 20px;
+	font-family: arial;
+	font-weight: lighter;
+}
+
+.closet{
+	color: #fff;
+	font-size: 20px;
+	font-family: arial;
+	font-weight: lighter;
+}*/
