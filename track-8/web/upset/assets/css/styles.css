@@ -1,0 +1,42 @@
+* {
+	box-sizing: border-box;
+	vertical-align: top;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	background: #1e1e1e;
+}
+
+.wrapper{
+	text-align: center;
+}
+
+.sec2{
+	font-size: 50px;
+	font-family: gill sans;
+	letter-spacing: 10px;
+	margin: 300px 40px 30px 40px;
+	padding: 25px;
+	border: 2px solid #ccc;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.sec2:hover{
+	background: #000;
+	color: #fff;
+}
+
+.ang1{
+	color: #ff0000;
+	text-align: right;
+	text-decoration: none;
+}
+
+.sad1{
+	color: #01a7de;
+	text-align: right;
+	text-decoration: none;
+}

@@ -12,16 +12,20 @@ $('.nav-item').click(function() {
 
 	if (button_name == 'ang') {
 		$('.lightbox.ang').removeClass('hide');
+	
 	} else if (button_name =='anx') {
 		$('.anx-text').removeClass('hide');
+	
 	} else if (button_name == 'dep') {
 		$('.dep-text').removeClass('hide');
+	
 	} else if (button_name == 'store') {
 		$('.store-text').removeClass('hide');
+	
 	} else if (button_name == 'man') {
 		$('.lightbox.man').removeClass('hide');
-	}
-	else if (button_name == 'euph') {
+	
+	} else if (button_name == 'euph') {
 		$('.lightbox.euph').removeClass('hide');
 	}
 });

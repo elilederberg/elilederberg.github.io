@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+	vertical-align: top;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	background: #1e1e1e;;
+}
+
+.head{
+	font-size: 150px;
+	font-family: futura;
+	color: #ff0;
+	text-align: center;
+}
+
+.hap{
+	color:#36ff00;
+}
+
+
+.link{
+	text-align: center;
+	margin: 150px 0 0 0;
+}
+
+a{
+	font-size: 20px;
+	color: #fff;
+	text-decoration: none;
+	font-family: futura;
+
+}
+
