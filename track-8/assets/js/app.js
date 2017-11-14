@@ -1,18 +1,16 @@
-$('.top-item') .click(function() {
-	var button_name = $ (this).data('button');
+// $('.blah').click(function() {
+// 	$('.blah-options').removeClass('hide');
+// });
 
-	$('.top-item') .removeClass('active');
-	$('.bottom-item').addClass('hide');
-	$(this).addClass('active');
+// $('.hyper').click(function() {
+// 	$('.hyper-options').removeClass('hide');
+// });
 
-	if (button_name == 'blah') {
-		$('.bottom-item.sad') .removeClass('hide');
+// $('.upset').click(function() {
+// 	$('.upset-options').removeClass('hide');
+// });
 
-	} else if (button_name == 'hyper') {
-		$('.bottom-item.hap') .removeClass('hide');
-	
-	} else if (button_name == 'upset') {
-		$('bottom-item.sad1') .removeClass('hide');
-	}
-
+$('.button').click(function() {
+	var target = $(this).data('target');
+	$(target).removeClass('hide');
 });

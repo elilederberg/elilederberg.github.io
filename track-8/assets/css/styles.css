@@ -9,7 +9,7 @@ body{
 	background: #1e1e1e;
 }
 
-html,body{ height: 100%; width: 100%; }
+html,body{ height: 100%; /*width: 100%;*/ }
 
 .head{
 	font-size: 150px;
@@ -37,7 +37,7 @@ html,body{ height: 100%; width: 100%; }
 }
 
 .sec2{
-	font-size: 40px;
+	font-size: 35px;
 	font-family: gill sans;
 	letter-spacing: 10px;
 	margin: 150px 10px 30px 0px;
@@ -105,4 +105,28 @@ html,body{ height: 100%; width: 100%; }
 	color: #01a7de;
 	text-align: right;
 	text-decoration: none;
+}
+
+.sub-options {
+	font-size: 30px;
+	margin-bottom: 30px;
+	color: #fff;
+}
+
+.blah-options {
+	
+}
+
+.link{
+	text-align: center;
+	margin: 150px 0 0 0;
+	font-size: 20;
+	font-family: futura;
+	color:#fff;
+	text-decoration: none;
+}
+
+
+.hide {
+	display: none;
 }

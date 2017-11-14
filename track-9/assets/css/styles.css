@@ -1,0 +1,16 @@
+* {
+	box-sizing: border-box;
+	vertical-align: top;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	background: #eaeaea;
+}
+
+.head{
+	font-size: 70px; 
+	color: #262626;
+}
+
