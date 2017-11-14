@@ -9,8 +9,62 @@ body{
 	background: #eaeaea;
 }
 
+html,body{ height: 100%; width: 100%; }
+/*
+.body{
+	background: #eaeaea;
+	font-size: 0;
+}*/
+
 .head{
-	font-size: 70px; 
-	color: #262626;
+	font-size: 200px; 
+	color: #363535;
+	font-family: helvetica neue;
+	font-weight: bold;
+	text-align: center;
+	margin: 0 0 50px 0;
 }
 
+.text{
+	font-size: 20px;
+	font-family: helvetica neue;
+	font-weight: thin;
+	margin:0 0 150px;
+	color: #000;
+}
+
+.sec1{
+	font-size: 50px;
+	font-family: helvetica neue;
+	font-style: italic;
+	margin: 0 0 10px 0;
+	cursor: pointer;
+}
+
+.dep{
+	color: #1f1b50;
+}
+
+.ang{
+	margin-left: 200px;
+	color: #9c0909;
+}
+
+.anx{
+	margin-left: 400px;
+	color: #5a5a5a;
+}
+
+.man{
+	margin-left: 600px;
+	color: #c4e02b;
+}
+
+.eup{
+	margin-left: 800px;
+	color: #e136c3;
+}
+
+.hide{
+	display: none;
+}

@@ -9,7 +9,7 @@ body{
 	background: #1e1e1e;
 }
 
-html,body{ height: 100%; /*width: 100%;*/ }
+html,body{ height: 100%; width: 100%; }
 
 .head{
 	font-size: 150px;
