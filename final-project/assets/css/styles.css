@@ -23,15 +23,17 @@ body{
 	font-family: helvetica;
 	font-size: 50px;
 	font-weight: bold;
-	margin: 50px 110px 30px 110px;
+	margin: 50px 60px 30px 150px;
 	padding: 20px;
 	border: 1px solid #ccc;
 	cursor: pointer;
 	display: inline-block;
+	position: relative;
 }
 
+
+
 .dropdown {
-	position: relative;
 	display: inline-block;
 }
 

@@ -131,7 +131,8 @@ html,body{ width: 100%; }
 	display: none;
 }
 
-a:link, a:visited, a:active{
+.back,.back:active,.back:visited{
 	color: #fff;
 	font-family: helvetica;
 }
+
