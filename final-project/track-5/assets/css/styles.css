@@ -1,0 +1,256 @@
+*{box-sizing: border-box;}
+
+body{
+	background: #e136c3;
+	color: #fff;
+}
+
+a:link,a:visited,a:hover,a:active{
+	color:#fff;
+	text-align: center;
+	text-decoration: none;
+}
+
+
+
+.head{
+	display: inline-block;
+	background: #000;
+	padding: 8px;
+	font-family: arial;
+	font-size: 30px;
+	font-weight: bold;
+	letter-spacing: 4px;
+/*	width:100%;*/
+	height:100px;
+	position: fixed;
+}
+
+a.anx{
+	color:#fff;
+	text-align: left;
+	text-decoration: none;
+	margin: 0 70px;
+}
+
+
+.a1 {
+	font-family: arial;
+	font-size: 30px;
+	letter-spacing: 4px; 
+	font-weight: bold;
+	/*text-align: center;*/
+	/*width:300px;
+	height:150px;*/
+}
+
+.a4{
+	text-align: right;
+}
+
+.pink{
+	color:#FF6700;
+	font-family:gill sans;
+	font-weight: 40px;
+	letter-spacing: 10px;
+	font-weight: bold;
+}
+
+.yellow{
+	color:#FFE900;
+	font-family:gill sans;
+	font-weight: 40px;
+	letter-spacing: 10px;
+	font-weight: bold;
+}
+
+.blue{
+	color:#00CED2;
+	font-family:gill sans;
+	font-weight: 40px;
+	letter-spacing: 12px;
+	font-weight: bold;
+}
+
+.button1{
+	width: 250px;
+	height: 175px;
+	transition:all 500ms ease;
+	background: url(../img/euph-1.png) no-repeat;
+}
+
+
+.button1:hover {
+	background-position: -250px 0;
+	transform: rotate(90deg);
+}
+
+
+.button2{
+	width: 280px;
+	height: 175px;
+	transition:all 500ms ease;
+	background: url(../img/euph-2.png) no-repeat;
+}
+
+
+.button2:hover {
+	background-position: -295px 0;
+	transform: rotate(90deg);
+}
+
+.button3{
+	width: 260px;
+	height: 175px;
+	transition:all 500ms ease;
+	background: url(../img/euph-3.png) no-repeat;
+}
+
+
+.button3:hover {
+	background-position: -330px 0;
+	transform: rotate(90deg);
+}
+
+.button4{
+	width: 270px;
+	height: 175px;
+	transition:all 500ms ease;
+	background: url(../img/euph-4.png) no-repeat;
+}
+
+
+.button4:hover {
+	background-position: -270px 0;
+	transform: rotate(90deg);
+}
+
+.button5{
+	width: 285px;
+	height: 175px;
+	transition:all 500ms ease;
+	background: url(../img/euph-5.png) no-repeat;
+}
+
+
+.button5:hover {
+	background-position: -357px 0;
+	transform: rotate(90deg);
+}
+
+.button6{
+	width: 260px;
+	height: 175px;
+	transition:all 500ms ease;
+	background: url(../img/euph-6.png) no-repeat;
+}
+
+
+.button6:hover {
+	background-position: -298px 0;
+	transform: rotate(90deg);
+}
+
+.button7{
+	width: 260px;
+	height: 175px;
+	transition:all 500ms ease;
+	background: url(../img/euph-7.png) no-repeat;
+}
+
+
+.button7:hover {
+	background-position: -270px 0;
+	transform: rotate(90deg);
+}
+
+.button8{
+	width: 250px;
+	height: 175px;
+	transition:all 500ms ease;
+	background: url(../img/euph-8.png) no-repeat;
+}
+
+
+.button8:hover {
+	background-position: -298px 0;
+	transform: rotate(90deg);
+}
+
+.c1{
+	margin: 0 1000px;
+}
+
+.c2{
+	margin: 0 500px;
+}
+
+.c3{
+	margin: 0 700px;
+}
+
+.c4{
+	margin: 0 100px;
+}
+
+.c5{
+	margin: 0 800px;
+}
+
+.c6{
+	margin: 0 50px;
+}
+
+.c7{
+	margin: 0 400px;
+}
+
+.c8{
+	margin: 0 500px;
+}
+
+.c9{
+	margin: 0 350px;
+}
+
+.c10{
+	margin: 0 750px;
+}
+
+.c11{
+	margin: 0 75px;
+}
+
+.c12{
+	margin: 0 950px;
+}
+
+.c13{
+	margin: 0 300px;
+}
+
+.c14{
+	margin: 0 650px;
+}
+
+.c15{
+	margin: 0 555px;
+}
+
+.c16{
+	margin: 0 30px;
+}
+
+
+.spike1{
+	margin: 0 900px;
+	height: 200%;
+}
+
+.spike2{
+	margin: 0 200px;
+}
+
+.spike4{
+	margin: 0 500px;
+}
