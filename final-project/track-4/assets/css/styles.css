@@ -3,12 +3,15 @@ body{
 	color: #fff;
 }
 
-a:link,a:visited,a:hover,a:active{
+a{
 	color:#fff;
 	text-align: center;
 	text-decoration: none;
 }
 
+a:hover{
+	color:#000;
+}
 
 .boxed{
 	margin-bottom: 500px;

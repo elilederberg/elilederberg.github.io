@@ -32,7 +32,7 @@ body{
 .g { background: #ee0707; color: #480a0a; }
 .h { background: #d64f4f; color: #7f1313; }
 
-a:link,a:visited,a:hover,a:active{
+a{
 	font-weight: normal;
 	font-size: 20px;
 	color:#500505;
@@ -40,7 +40,9 @@ a:link,a:visited,a:hover,a:active{
 	text-decoration: none;
 }
 
-
+a:hover{
+	color: #fff;
+}
  
     color: #9A54D3;
   

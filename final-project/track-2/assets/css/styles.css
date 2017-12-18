@@ -116,11 +116,16 @@ h11{
 	letter-spacing: 2.8px;
 }
 
-/*a{*/
-	/*font-family: arial;
+a{
+	font-family: arial;
 	font-size: 12px;
 	font-weight:normal;
 	text-align: center;
 	color: #9A54D3;
-	letter-spacing: 2.4px;*/
-/*}*/
+	letter-spacing: 2.4px;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #fff;
+}
